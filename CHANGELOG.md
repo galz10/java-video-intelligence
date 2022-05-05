@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/googleapis/java-video-intelligence/compare/v2.0.27...v2.1.0) (2022-05-05)
+
+
+### Features
+
+* field ObjectTrackingAnnotation.segment moved into oneof, added track_id ([#897](https://github.com/googleapis/java-video-intelligence/issues/897)) ([95aa623](https://github.com/googleapis/java-video-intelligence/commit/95aa6234261d642aebd876d57a052dc125be3366))
+
 ### [2.0.27](https://github.com/googleapis/java-video-intelligence/compare/v2.0.26...v2.0.27) (2022-04-21)
 
 
